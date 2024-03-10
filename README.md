@@ -15,3 +15,5 @@ This project is part of Udacity's Data Science Nanodegree program. In this proje
 3. Go to web app: http://0.0.0.0:3000/
    
 # Photos attached
+
+![Sample Input](https://github.com/jhon27195/Disaster_Response/blob/19ce28701a577957a326b64bc9abd87001a1c5bf/WebApp.PNG)
