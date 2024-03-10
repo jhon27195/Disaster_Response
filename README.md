@@ -7,6 +7,7 @@ In this project, a web application will be developed where the user can enter a 
 - App: The app folder contains "run.py" for the web application.
 - data: It contains the data set within the pipeline process that cleans the data and stores it in the database.
 - models: The folder that contains the developed model
+In addition, the ETL and ML Pipeline Notebooks have been added.
 
 # Instructions:
 1. Run the following commands in the project's root directory to set up your database and model.
