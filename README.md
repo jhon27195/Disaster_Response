@@ -3,6 +3,11 @@
 This project is part of Udacity's Data Science Nanodegree program. In this project, we will build a natural language processing (NLP) model to categorize messages in real time when a disaster strikes.
 
 In this project, a web application will be developed where the user can enter a message and obtain results of different classifications.
+#File Description
+- App: The app folder contains "run.py" for the web application.
+- data: It contains the data set within the pipeline process that cleans the data and stores it in the database.
+- models: The folder that contains the developed model
+
 # Instructions:
 1. Run the following commands in the project's root directory to set up your database and model.
 
