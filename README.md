@@ -1,5 +1,5 @@
 # Disaster_Response_Project
-https://github.com/jhon27195/Disaster_Response/blob/9992ee3fd947f6261169adc86aa51f0bbb619e31/Disaster.jpg
+![Sample Input](https://github.com/jhon27195/Disaster_Response/blob/9992ee3fd947f6261169adc86aa51f0bbb619e31/Disaster.jpg)
 This project is part of Udacity's Data Science Nanodegree program. In this project, we will build a natural language processing (NLP) model to categorize messages in real time when a disaster strikes.
 # Instructions:
 1. Run the following commands in the project's root directory to set up your database and model.
