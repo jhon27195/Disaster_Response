@@ -29,4 +29,5 @@ Web application where you can enter a message and get ranking results that have 
 ![Sample Input](https://github.com/jhon27195/Disaster_Response/blob/19ce28701a577957a326b64bc9abd87001a1c5bf/WebApp.PNG)
 
 Script roots
+
 ![Sample Input](https://github.com/jhon27195/Disaster_Response/blob/32b142cabba0d54acf2c9ded2896c7341f837661/Script%20Roots.PNG)
