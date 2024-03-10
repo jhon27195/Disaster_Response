@@ -9,6 +9,7 @@ This web application will be of great importance so that emergency operators can
 - App: The app folder contains "run.py" for the web application.
 - data: It contains the data set within the pipeline process that cleans the data and stores it in the database.
 - models: The folder that contains the developed model
+- 
 In addition, the ETL and ML Pipeline Notebooks have been added.
 
 # Instructions:
@@ -22,12 +23,19 @@ In addition, the ETL and ML Pipeline Notebooks have been added.
 
 2. Run your web app: `python run.py`
 
-3. Go to web app: http://0.0.0.0:3000/ or https://intapg3iq4.prod.udacity-student-workspaces.com/
+3. Go to web app:  http://0.0.0.0:3001/
    
 # Photos attached
 Web application where you can enter a message and get ranking results that have been worked on.
 ![Sample Input](https://github.com/jhon27195/Disaster_Response/blob/19ce28701a577957a326b64bc9abd87001a1c5bf/WebApp.PNG)
 
 Script roots
+1. Run ML pipeline that trains classifier and saves
+![Sample Input](https://github.com/jhon27195/Disaster_Response/blob/94bb0a84c323ccd92bda2d645465001c499fdce4/Scrip%20Roots.PNG)
 
-![Sample Input](https://github.com/jhon27195/Disaster_Response/blob/32b142cabba0d54acf2c9ded2896c7341f837661/Script%20Roots.PNG)
+2. Run the web app
+![Sample Input](https://github.com/jhon27195/Disaster_Response/blob/94bb0a84c323ccd92bda2d645465001c499fdce4/Roots.PNG)
+
+
+
+
