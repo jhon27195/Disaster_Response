@@ -34,7 +34,7 @@ Script roots
 ![Sample Input](https://github.com/jhon27195/Disaster_Response/blob/94bb0a84c323ccd92bda2d645465001c499fdce4/Scrip%20Roots.PNG)
 
 2. Run the web app
-![Sample Input](https://github.com/jhon27195/Disaster_Response/blob/94bb0a84c323ccd92bda2d645465001c499fdce4/Roots.PNG)
+![Sample Input](https://github.com/jhon27195/Disaster_Response/blob/0c36241a3f056eece98c5cd743a80b0f75f7705a/Roots.PNG)
 
 
 
