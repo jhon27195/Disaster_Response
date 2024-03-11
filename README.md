@@ -23,7 +23,7 @@ In addition, the ETL and ML Pipeline Notebooks have been added.
 
 2. Run your web app: `python run.py`
 
-3. Go to web app:  http://0.0.0.0:3001/
+3. Go to web app:  http://0.0.0.0:3000/
    
 # Photos attached
 Web application where you can enter a message and get ranking results that have been worked on.
